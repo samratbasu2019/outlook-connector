@@ -1,0 +1,14 @@
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\outlook-connector.dll
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\outlook-connector.pdb
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\outlook-connector.dll.manifest
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\outlook-connector.vsto
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.csprojAssemblyReference.cache
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook_connector.Properties.Resources.resources
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook_connector.RibbonConnector.resources
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.csproj.GenerateResource.cache
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.csproj.CoreCompileInputs.cache
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.csproj.CopyComplete
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.dll
+D:\samrat.basu01\D-Drive\Work\Hakathon\hackathon\outlook-connector\outlook-connector\outlook-connector\obj\Debug\outlook-connector.pdb
